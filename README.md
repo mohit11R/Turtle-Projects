@@ -10,5 +10,7 @@
     d) Spiral
     
     e) Rainbow Benzene
+    
+    f) Corona Image
   
   2) Turle Race
